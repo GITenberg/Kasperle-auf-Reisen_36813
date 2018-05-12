@@ -1,0 +1,35 @@
+_repo: Kasperle-auf-Reisen_36813
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Purrmann, Karl
+    birthdate: 1877
+    gutenberg_agent_id: '38492'
+    url: http://www.gutenberg.org/2009/agents/38492
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Siebe, Josephine
+    alias: Siebe, Josefine
+    birthdate: 1870
+    deathdate: 1941
+    gutenberg_agent_id: '38491'
+    url: http://www.gutenberg.org/2009/agents/38491
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2011-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36813'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Puppets -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Kasperle auf Reisen: Eine lustige Geschichte'
+url: http://www.gutenberg.org/ebooks/36813
